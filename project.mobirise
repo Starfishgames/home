@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Starfish Games",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -133,7 +133,7 @@
             }
           },
           "_name": "content11",
-          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Shoulda, woulda, coulda</b>&nbsp;- a card-based game on fantasy guilt trips among tired adventurers in a shady brewery. <a href=\"page1.html\">Read more!</a></li><li><b>Micro(n)</b> - a tabletop boardgame on microbial ecology. Create your bacterial species and compete for your niche. <a href=\"page4.html\">Read more!</a></li><li><b>Hearts in Antarctica</b> - a storytelling game of tragedy, ice and human passions gone horribly wrong. <a href=\"page2.html\">Read more!</a></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Shoulda, woulda, coulda</b>&nbsp;- a card-based game on fantasy guilt trips among tired adventurers in a shady brewery.</li><li><b>Micro(n)</b> - a tabletop boardgame on microbial ecology. Create your bacterial species and compete for your niche.</li><li><b>Hearts in Antarctica</b> - a storytelling game of tragedy, ice and human passions gone horribly wrong.</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qxPjlC32hC",
           "_anchor": "content11-6",
           "_protectedParams": [],
@@ -151,7 +151,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                <b> All our games are free to play!</b>&nbsp;Curious about any game? Feel free to download it, print the related material and start playing immediately! This is our phylosophy: free games for everybody.</p><p><b>Did you find a bug?</b> Tell us! Just fill out the form below to participate in the development of our games. Notify us if you want to be part of the development: you'll receive all updates regarding your game of choice.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                <b> All our games are free to play!</b>&nbsp;Curious about any game? Feel free to download it, print the related material and start playing immediately! This is our phylosophy: free games for everybody.</p><p><b>Did you find a bug?</b> Tell us! Just fill out the form below to participate in the development of our games. Notify us if you want to be part of the development: you'll receive all updates regarding your game of choice.</p><p><b>Connect with us!</b>&nbsp;All our games are available for downloading and comments at out <a href=\"https://starfishgames.itch.io/\">itch.io</a> page. Also, feel free to follow us on our <a href=\"https://www.facebook.com/Starfish-Games-866687033511230/\">FaceBook </a>and <a href=\"https://plus.google.com/b/104236302279327836667/\">Google+</a> pages!</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qINfaYhNM0",
           "_anchor": "content1-e",
           "_protectedParams": [],
